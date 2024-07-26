@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atividades/Atividade02/Atividade02.iml" filepath="$PROJECT_DIR$/atividades/Atividade02/Atividade02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/anatomia-de-classes/anatomia-de-classes.iml" filepath="$PROJECT_DIR$/conteudos/anatomia-de-classes/anatomia-de-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/anatomia-de-classes/anatomia-de-classes1.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/anatomia-de-classes/anatomia-de-classes1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/argumentos-exec-terminal/argumentos-exec-terminal.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/argumentos-exec-terminal/argumentos-exec-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/argumentos-exec-terminal/argumentos-exec-terminal1.iml" filepath="$PROJECT_DIR$/conteudos/argumentos-exec-terminal/argumentos-exec-terminal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/atividade-smartTv/atividade-smartTv.iml" filepath="$PROJECT_DIR$/atividades/atividade-smartTv/atividade-smartTv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/atividades/atividade-smartTv/atividade-smartTv1.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/atividades/atividade-smartTv/atividade-smartTv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/atividades/atividade01/atividade01.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/atividades/atividade01/atividade01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/atividade01/atividade011.iml" filepath="$PROJECT_DIR$/atividades/atividade01/atividade011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/atividades/atividades.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/atividades/atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/controle-fluxo/controle-fluxo1.iml" filepath="$PROJECT_DIR$/conteudos/controle-fluxo/controle-fluxo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/desafios/desafios.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/desafios/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios1.iml" filepath="$PROJECT_DIR$/desafios/desafios1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basic.iml" filepath="$PROJECT_DIR$/.idea/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/operadores/operadores.iml" filepath="$PROJECT_DIR$/conteudos/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/operadores/operadores1.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/operadores/operadores1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/scanner-java/scanner-java.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/scanner-java/scanner-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/scanner-java/scanner-java1.iml" filepath="$PROJECT_DIR$/conteudos/scanner-java/scanner-java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/java-estudos/conteudos/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/atividades/java-estudos/conteudos/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudos/tipos-variaveis/tipos-variaveis1.iml" filepath="$PROJECT_DIR$/conteudos/tipos-variaveis/tipos-variaveis1.iml" />
+    </modules>
+  </component>
+</project>
