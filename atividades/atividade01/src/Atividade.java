@@ -18,6 +18,6 @@ public class Atividade {
         System.out.printf("Rouded (three decimal places): %.3f%n", measure);
         System.out.printf("US decimal point: %.3f%n", measure);
 
-        //teste
+        //testes
     }
 }
