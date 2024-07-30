@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anatomia-de-classes/anatomia-de-classes.iml" filepath="$PROJECT_DIR$/anatomia-de-classes/anatomia-de-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argumentos-exec-terminal/argumentos-exec-terminal.iml" filepath="$PROJECT_DIR$/argumentos-exec-terminal/argumentos-exec-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/conteudos.iml" filepath="$PROJECT_DIR$/.idea/conteudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanner-java/scanner-java.iml" filepath="$PROJECT_DIR$/scanner-java/scanner-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
